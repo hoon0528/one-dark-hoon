@@ -1,2 +1,13 @@
+# Exclude VS Code-specific settings and temporary files
+.vscode/**
+.vscode-test/**
+
+# Exclude packaging configuration
+.vscodeignore
+
+# Ignore auto-generated guide
+vsc-extension-quickstart.md
+
+# Exclude packaging extension package
 node_modules
 *.vsix
