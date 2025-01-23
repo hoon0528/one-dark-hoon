@@ -2,7 +2,7 @@
 	"name": "one-dark-hoon",
 	"displayName": "One Dark Hoon",
 	"description": "Custom Theme based on Atom's One Dark Theme",
-	"version": "0.0.2",
+	"version": "0.0.1",
 	"publisher": "hoon0528",
 	"author": "afwpark@gmail.com",
 	"icon": "icon.png",

@@ -5,9 +5,7 @@
         "enumMember": "#d19a66",
         "property": "#e06c75",
         "variable.defaultLibrary": "#e5c07b",
-		"decorator": {
-			"foreground": "#E5C07B"
-		}
+		"decorator:python": "#E5C07B"
     },
 	"colors": {
 		// Acitivity Bar (Located left-most by default)
@@ -398,7 +396,7 @@
 			"name": "Library type",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
