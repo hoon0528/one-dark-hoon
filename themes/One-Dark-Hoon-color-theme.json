@@ -396,6 +396,13 @@
 			"name": "Library type",
 			"scope": "support.type",
 			"settings": {
+				"foreground": "#E06C75"
+			}
+		},
+		{
+			"name": "Library type",
+			"scope": "support.type.python",
+			"settings": {
 				"foreground": "#E5C07B"
 			}
 		},
