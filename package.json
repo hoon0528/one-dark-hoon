@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-hoon",
+  "displayName": "One Dark Hoon",
+  "description": "Custom color theme based on Atom's one dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Hoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Hoon-color-theme.json"
+      }
+    ]
+  }
+}
