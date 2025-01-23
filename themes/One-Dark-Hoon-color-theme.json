@@ -4,7 +4,10 @@
     "semanticTokenColors": {
         "enumMember": "#d19a66",
         "property": "#e06c75",
-        "variable.defaultLibrary": "#e5c07b"
+        "variable.defaultLibrary": "#e5c07b",
+		"decorator": {
+			"foreground": "#E5C07B"
+		}
     },
 	"colors": {
 		// Acitivity Bar (Located left-most by default)
