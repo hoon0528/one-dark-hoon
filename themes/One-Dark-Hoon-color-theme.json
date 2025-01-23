@@ -57,8 +57,8 @@
         "editor.wordHighlightStrongBorder": "#7f848e",
 
 		// Bracket Match
-        "editorBracketMatch.background": "#515a6b",
-        "editorBracketMatch.border": "#515a6b",
+        "editorBracketMatch.background": "#f8f8f242",
+        "editorBracketMatch.border": "#dfdfd7",
 
 
         "editorError.foreground": "#c24038",
