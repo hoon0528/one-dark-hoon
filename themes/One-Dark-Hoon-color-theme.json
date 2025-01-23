@@ -363,7 +363,8 @@
 			"name": "Builtin Functions",
 			"scope": [
 				"support.function.builtin",
-				"support.function.core"
+				"support.function.magic",
+				"support.function.core",
 			],
 			"settings": {
 				"fontStyle": "",

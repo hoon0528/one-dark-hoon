@@ -10,4 +10,4 @@ vsc-extension-quickstart.md
 
 # Exclude packaging extension package
 node_modules
-*.vsix
+# *.vsix
