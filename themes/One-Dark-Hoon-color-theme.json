@@ -339,7 +339,9 @@
 		},
 		{
 			"name": "Function argument",
-			"scope": "variable.parameter",
+			"scope": [
+				"variable.parameter",
+			],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#e06c75"
@@ -349,7 +351,7 @@
 			"name": "Function call",
 			"scope": [
 				"entity.name.function-call",
-				"meta.function-call",
+				"meta.function-call.generic",
 			],
 			"settings": {
 				"fontStyle": "",
@@ -375,16 +377,6 @@
 			}
 		},
 		{
-			"name": "Decorator",
-			"scope": [
-				"meta.function.decorator",
-				"entity.name.function.decorator",
-			],
-			"settings": {
-				"foreground": "#E5C07B"
-			}
-		},
-		{
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
@@ -404,6 +396,16 @@
 			"scope": "support.type",
 			"settings": {
 				"foreground": "#e06c75"
+			}
+		},
+		{
+			"name": "Decorator",
+			"scope": [
+				"meta.function.decorator",
+				"entity.name.function.decorator",
+			],
+			"settings": {
+				"foreground": "#E5C07B"
 			}
 		},
 		{
