@@ -41,7 +41,7 @@
 
 		// Cursor & Located line
         "editorCursor.background": "#ffffffc9",
-        "editorCursor.foreground": "#528bff",
+        "editorCursor.foreground": "#f8f8f0",
         "editor.lineHighlightBackground": "#383E4A",
         // "editorActiveLineNumber.foreground": "#737984",
 
